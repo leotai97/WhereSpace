@@ -9,3 +9,5 @@ Once the scan is complete you will be able to browse your directory structure by
 The program is simple and does not attempt to elevate permission automatically, if you want to scan protected areas you will have to run the program as administrator. 
 
 You can re-sort the directories with the "Low" / "High" button.
+
+You can double click on a directory in a tree to open it up in Windows Explorer
