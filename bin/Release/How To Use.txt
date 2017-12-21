@@ -1,0 +1,11 @@
+WhereSpace - as in where has all my disk space gone.
+
+Run the program, type in a path or click the path button to browse for a path.
+
+Click the scan button or press enter if the text cursor is still in the path text box.
+
+Once the scan is complete you will be able to browse your directory structure by how much disk space is used in each directory.
+
+The program is simple and does not attempt to elevate permission automatically, if you want to scan protected areas you will have to run the program as administrator. 
+
+You can re-sort the directories with the "Low" / "High" button.
