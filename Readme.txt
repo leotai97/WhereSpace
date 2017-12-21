@@ -1,0 +1,1 @@
+The path button doesn't do anything, just type in the starting directory

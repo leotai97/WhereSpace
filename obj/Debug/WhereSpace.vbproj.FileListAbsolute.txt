@@ -1,0 +1,17 @@
+E:\Programs\WhereSpace\obj\Debug\WhereSpace.exe
+E:\Programs\WhereSpace\obj\Debug\WhereSpace.xml
+E:\Programs\WhereSpace\obj\Debug\WhereSpace.pdb
+E:\Programs\WhereSpace\bin\Debug\WhereSpace.exe.manifest
+E:\Programs\WhereSpace\bin\Debug\WhereSpace.application
+E:\Programs\WhereSpace\bin\Debug\WhereSpace.exe
+E:\Programs\WhereSpace\bin\Debug\WhereSpace.pdb
+E:\Programs\WhereSpace\bin\Debug\WhereSpace.xml
+E:\Programs\WhereSpace\obj\Debug\WhereSpace.MainWnd.resources
+E:\Programs\WhereSpace\obj\Debug\WhereSpace.Resources.resources
+E:\Programs\WhereSpace\obj\Debug\WhereSpace.vbproj.GenerateResource.Cache
+E:\Programs\WhereSpace\obj\Debug\WhereSpace.vbproj.CoreCompileInputs.cache
+E:\Programs\WhereSpace\obj\Debug\WhereSpace.TrustInfo.xml
+E:\Programs\WhereSpace\obj\Debug\WhereSpace.exe.manifest
+E:\Programs\WhereSpace\obj\Debug\WhereSpace.application
+E:\Programs\WhereSpace\bin\Debug\WhereSpace.exe.config
+E:\Programs\WhereSpace\obj\Debug\WhereSpace.vbprojResolveAssemblyReference.cache
