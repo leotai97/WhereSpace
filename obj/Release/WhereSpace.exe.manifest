@@ -42,14 +42,14 @@
     </dependentAssembly>
   </dependency>
   <dependency>
-    <dependentAssembly dependencyType="install" allowDelayedBinding="true" codebase="WhereSpace.exe" size="19456">
+    <dependentAssembly dependencyType="install" allowDelayedBinding="true" codebase="WhereSpace.exe" size="18432">
       <assemblyIdentity name="WhereSpace" version="1.0.0.0" language="neutral" processorArchitecture="msil" />
       <hash>
         <dsig:Transforms>
           <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
         </dsig:Transforms>
         <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
-        <dsig:DigestValue>I14KFyDVanbBNdAAJdHbmytJVa/X+IDgIBrbtCJvi1c=</dsig:DigestValue>
+        <dsig:DigestValue>S2wytITS5t2f7zhAFZ9X2oi2QAJ8Z0ZOnungXukIuLA=</dsig:DigestValue>
       </hash>
     </dependentAssembly>
   </dependency>

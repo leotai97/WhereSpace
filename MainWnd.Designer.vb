@@ -65,7 +65,7 @@ Partial Class MainWnd
     Me.btnSort.Name = "btnSort"
     Me.btnSort.Size = New System.Drawing.Size(38, 20)
     Me.btnSort.TabIndex = 5
-    Me.btnSort.Text = "High"
+    Me.btnSort.Text = "Low"
     Me.ToolTip1.SetToolTip(Me.btnSort, "Switch the sort direction")
     Me.btnSort.UseVisualStyleBackColor = True
     '

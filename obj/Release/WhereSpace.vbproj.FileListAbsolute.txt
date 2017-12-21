@@ -1,0 +1,16 @@
+E:\Programs\WhereSpace\bin\Release\WhereSpace.exe.config
+E:\Programs\WhereSpace\bin\Release\WhereSpace.exe.manifest
+E:\Programs\WhereSpace\bin\Release\WhereSpace.application
+E:\Programs\WhereSpace\bin\Release\WhereSpace.exe
+E:\Programs\WhereSpace\bin\Release\WhereSpace.pdb
+E:\Programs\WhereSpace\bin\Release\WhereSpace.xml
+E:\Programs\WhereSpace\obj\Release\WhereSpace.MainWnd.resources
+E:\Programs\WhereSpace\obj\Release\WhereSpace.Resources.resources
+E:\Programs\WhereSpace\obj\Release\WhereSpace.vbproj.GenerateResource.Cache
+E:\Programs\WhereSpace\obj\Release\WhereSpace.vbproj.CoreCompileInputs.cache
+E:\Programs\WhereSpace\obj\Release\WhereSpace.TrustInfo.xml
+E:\Programs\WhereSpace\obj\Release\WhereSpace.exe.manifest
+E:\Programs\WhereSpace\obj\Release\WhereSpace.application
+E:\Programs\WhereSpace\obj\Release\WhereSpace.exe
+E:\Programs\WhereSpace\obj\Release\WhereSpace.xml
+E:\Programs\WhereSpace\obj\Release\WhereSpace.pdb

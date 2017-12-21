@@ -51,10 +51,10 @@ Public Class MainWnd
   Private Sub btnSort_Click(sender As Object, e As EventArgs) Handles btnSort.Click
 
     If m_Direction = Sorter.enumDir.High Then
-      btnSort.Text = "Low"
+      btnSort.Text = "High"
       m_Direction = Sorter.enumDir.Low
     Else
-      btnSort.Text = "High"
+      btnSort.Text = "Low"
       m_Direction = Sorter.enumDir.High
     End If
 
